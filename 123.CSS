@@ -12,13 +12,14 @@ header {
     padding: 29px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 section {
     margin: 20px;
     padding: 29px;
     background-color: #e8dcb5;
-    border-radius: 7px;
+    border-radius: 15px #ededed;
     box-shadow: 0 0 10px rgba(141, 3, 3, 0.452);
 }
 
@@ -29,7 +30,7 @@ h1, h2 {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding: 10px;
 }
 
 li {
